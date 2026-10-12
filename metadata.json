@@ -1,0 +1,7 @@
+{
+  "name": "RuleBot - Rule-Based Chatbot & Logic Explorer",
+  "description": "An interactive rule-based chatbot demonstrating fundamental programming concepts: if-elif ladders, functions, event loops, and input/output.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
